@@ -48,5 +48,4 @@ This animation represents my coding activity, generated via GitHub Actions.
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [Insert your LinkedIn Link here]
-- **Email:** [Insert your Email here]
+- **LinkedIn:** [www.linkedin.com/in/masakifukae]

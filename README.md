@@ -5,8 +5,8 @@
 
 ---
 
-### ⚡ RA Work: DVPP Research
-I am currently working as a **Research Assistant** on high-fidelity power system simulations. My work focuses on providing the granular data needed for modern grid control.
+### ⚡ RA Work: DVPP Research 
+Currently working as a **Research Assistant** on high-fidelity power system simulations. My work focuses on providing the granular data needed for modern grid control.
 
 * **Objective:** Supporting **Dynamic Virtual Power Plant (DVPP)** controller testing.
 * **Key Tasks:** Developing 10-second resolution demand models to capture high-frequency transients that standard 1-minute data misses.
@@ -14,13 +14,13 @@ I am currently working as a **Research Assistant** on high-fidelity power system
 
 ---
 
-### 🚀 Personal Project: [CREST Household Load Model](https://github.com/Umaru74/CREST_PY_74)
-This is a Python-based stochastic engine I am developing to generate high-resolution synthetic load profiles.
+### 🚀 RA Work: [CREST Household Load Model](https://github.com/Umaru74/CREST_PY_74)
+I am developing a Python-based stochastic engine to generate high-resolution synthetic load profiles for power system research.
 
-* **Methodology:** Uses **First-Order Markov Chains** to simulate realistic household occupancy and appliance activation.
-* **Granularity:** Upscaled to **10-second resolution** to improve the accuracy of frequency response simulations.
-* **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+* **Objective:** Developing granular demand data for **Dynamic Virtual Power Plant (DVPP)** controller testing.
+* **Methodology:** Uses **First-Order Markov Chains** to simulate realistic household occupancy and appliance/lighting activation.
+* **Granularity:** Upscaled to **10-second resolution** to capture high-frequency transients that impact grid frequency response.
+* **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ---
 
 ### 🛠️ Technical Toolkit

@@ -1,11 +1,12 @@
 <h1 align="center">Mark</h1>
 
-<h3 align="center"><b>About Me 😺</b></h3>
+<h3 align="center"><b>About Me 🐈</b></h3>
 
 <p>
-Sustainable Energy Engineering student with a strong interest in electrical and electronics engineering.
-Experienced in power electronics, hardware design, and simulation through academic projects and industry internships.
-Currently exploring renewable energy systems, power systems analysis, and control of converters using tools like Python, LTspice, and LabVIEW.
+An international 5th year university student in Canada, originally from Japan 🎌
+Going to be a MASc student from the upcoming May 🏫
+Experienced in hardware tesing, power electronics, and simulatin through academic projects and industry internships. 
+Currently exploring power systems and microgrid using tools like Python, MATLAB, Opal-RT
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -12,7 +12,7 @@ As an RA, I develop high-resolution models to capture transients essential for v
 
 
 ### 🚀 RA Work: [CREST Household Load Model](https://github.com/Umaru74/CREST_PY_74)
-I am developing a Python-based stochastic engine to generate high-resolution synthetic load profiles for power system research.
+I have developed a Python-based stochastic engine to generate high-resolution synthetic load profiles for power system research.
 
 * **Objective:** Developing granular demand data for **Dynamic Virtual Power Plant (DVPP)** controller testing.
 * **Methodology:** Uses **First-Order Markov Chains** to simulate realistic household occupancy and appliance/lighting activation.

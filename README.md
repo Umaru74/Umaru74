@@ -4,4 +4,7 @@
 🏫 
 💭 Currently learning about machine learning 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umaru74)](https://github.com/Umaru74/github-readme-stats)
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umaru74&show_icons=true&theme=nord&count_private=true" alt="Mark's GitHub stats" />
+</div>

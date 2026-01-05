@@ -13,8 +13,8 @@ I am a senior engineering student and a research assistant in power system resea
 
 | Period | Role | Focus |
 | :--- | :--- | :--- |
-| **2025 Sep – Present** | **Power System Research Assistant** | Stochastic load modeling, DVPP frequency response, SFU Research Group |
-| **2024 Sep – 2025 Apr** | **Electrical Hardware Intern** | Power electronics characterization, hardware testing & design |
+| **2025 Sep – Present** | **Power System Research Assistant** | Stochastic load modeling, SFU Research Group |
+| **2024 Sep – 2025 Apr** | **Electrical Hardware Intern** | Power electronics hardware testing & design |
 | **2023 Sep – 2023 Dec** | **Manufacturing Technician** | Hands-on assembly, technical fabrication, and quality control |
 ---
 

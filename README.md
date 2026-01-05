@@ -5,13 +5,13 @@
 
 ---
 
-### ⚡ Research & Expertise
-I specialize in high-resolution stochastic modeling and power system simulations. My current work focuses on bridging the gap between human behavior and grid stability.
+### ⚡ Research Focus
+I am currently a **Research Assistant** focusing on the intersection of human behavior and power system dynamics. My work aims to improve the fidelity of virtual power plant simulations.
 
-* **CREST Model Implementation:** Developing 10-second resolution stochastic demand models to support **Dynamic Virtual Power Plant (DVPP)** testing in collaboration with researchers in Germany.
-* **Stochastic Processes:** Utilizing **First-Order Markov Chains** for occupancy modeling and appliance activation probabilities.
-* **Grid Stability:** Analyzing the "diversity effect" in aggregated household loads to test secondary frequency control.
-
+* **Primary Project:** [CREST Household Load Model (Python)](https://github.com/Umaru74/CREST_PY_74)
+  * **Role:** Graduate Research Assistant (RA)
+  * **Objective:** Developing 10-second resolution stochastic demand models to support **Dynamic Virtual Power Plant (DVPP)** testing.
+  * **Collaborations:** Working with international research partners (Germany) to validate secondary frequency controllers using high-granularity data.
 ---
 
 ### 🛠️ Technical Toolkit

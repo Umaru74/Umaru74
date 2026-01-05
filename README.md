@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mark</h1>
-<h3 align="center">A 5th year engineering student in Canada, originally from Japan</h3>
+<h1 align="center">Mark</h1>
+<h3 align="center">**About me**</h3>
 
 - 🔭 I’m currently working on **CREST_PY_74**
 

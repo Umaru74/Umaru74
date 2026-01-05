@@ -5,8 +5,10 @@
 
 ---
 
-### ⚡ About Me  
-I am a senior engineering student and a research assistant in power system research group at SFU. 
+### 👋 About Me
+I am a senior engineering student and a research assistant.  
+Currently, I am exploring the intersection of **Power Systems and Machine Learning**, specifically for load and PV radiation forecasting.  
+As an RA, I develop high-resolution models to capture transients essential for validating **Dynamic Virtual Power Plant (DVPP)** controllers.
 
 
 ### 💼 Experience

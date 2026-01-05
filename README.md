@@ -1,13 +1,11 @@
 <h1 align="center">Mark</h1>
-<h3 align="center">**About me**</h3>
 
-- 🔭 I’m currently working on **CREST_PY_74**
+<h3 align="center"><b>About Me 😺</b></h3>
 
-- 🌱 I’m currently learning **machine learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/masakifukae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masakifukae" height="30" width="40" /></a>
+<p>
+Sustainable Energy Engineering student with a strong interest in electrical and electronics engineering.
+Experienced in power electronics, hardware design, and simulation through academic projects and industry internships.
+Currently exploring renewable energy systems, power systems analysis, and control of converters using tools like Python, LTspice, and LabVIEW.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

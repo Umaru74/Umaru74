@@ -4,7 +4,5 @@
 🏫 
 💭 Currently learning about machine learning 
 
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umaru74&show_icons=true&theme=nord&count_private=true" alt="Mark's GitHub stats" />
-</div>
+### 🐍 Contribution Activity
+![snake](https://raw.githubusercontent.com/Umaru74/Umaru74/output/github-contribution-grid-snake.svg)

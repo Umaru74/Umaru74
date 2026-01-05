@@ -1,7 +1,7 @@
 # Hi, I'm Mark! 👋
 
-### 🎓 Incoming MASc Student | Sustainable Energy Engineering
-**Research Assistant** | British Columbia, Canada
+### 🎓Sustainable Energy Engineering | 5th Year Student 
+**British Columbia, Canada** | SFU (Simon Fraser University)
 
 ---
 

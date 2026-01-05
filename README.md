@@ -17,7 +17,7 @@ As an RA, I develop high-resolution models to capture transients essential for v
 | :--- | :--- | :--- |
 | **2025 Sep – Present** | **Power System Research Assistant** | Stochastic load modeling, SFU Research Group |
 | **2024 Sep – 2025 Apr** | **Electrical Hardware Intern** | Power electronics hardware testing & design |
-| **2023 Sep – 2023 Dec** | **Manufacturing Technician** | Hands-on assembly, technical fabrication, and quality control |
+| **2023 Sep – 2023 Dec** | **Manufacturing Technician Intern** | Hands-on assembly, technical fabrication, and quality control |
 ---
 
 ### 🚀 RA Work: [CREST Household Load Model](https://github.com/Umaru74/CREST_PY_74)

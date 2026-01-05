@@ -1,51 +1,40 @@
 # Hi, I'm Mark! 👋
 
-### 🧑‍💻 Sustainable Energy Engineering | 5th Year Student
-**British Columbia, Canada** | SFU (Simon Fraser University)
+### 🎓 Incoming MASc Student | Sustainable Energy Engineering
+**Research Assistant** | British Columbia, Canada
 
 ---
 
-### ⚡ Research Focus
-I am currently a **Research Assistant** focusing on the intersection of human behavior and power system dynamics. My work aims to improve the fidelity of virtual power plant simulations.
+### ⚡ RA Work: DVPP Research
+I am currently working as a **Research Assistant** on high-fidelity power system simulations. My work focuses on providing the granular data needed for modern grid control.
 
-* **Primary Project:** [CREST Household Load Model (Python)](https://github.com/Umaru74/CREST_PY_74)
-  * **Role:** Graduate Research Assistant (RA)
-  * **Objective:** Developing 10-second resolution stochastic demand models to support **Dynamic Virtual Power Plant (DVPP)** testing.
-  * **Collaborations:** Working with international research partners (Germany) to validate secondary frequency controllers using high-granularity data.
+* **Objective:** Supporting **Dynamic Virtual Power Plant (DVPP)** controller testing.
+* **Key Tasks:** Developing 10-second resolution demand models to capture high-frequency transients that standard 1-minute data misses.
+* **Tools:** Validating models for use in **Opal-RT** (Real-Time Simulation) and **PSS®SINCAL** grid impact studies.
+
+---
+
+### 🚀 Personal Project: [CREST Household Load Model](https://github.com/Umaru74/CREST_PY_74)
+This is a Python-based stochastic engine I am developing to generate high-resolution synthetic load profiles.
+
+* **Methodology:** Uses **First-Order Markov Chains** to simulate realistic household occupancy and appliance activation.
+* **Granularity:** Upscaled to **10-second resolution** to improve the accuracy of frequency response simulations.
+* **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ---
 
 ### 🛠️ Technical Toolkit
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Engineering Metrics
-These badges pull data directly from my repositories and are highly reliable.
-
-| Category | Status |
-| :--- | :--- |
-| **Main Research Project** | [CREST_PY_74](https://github.com/Umaru74/CREST_PY_74) |
-| **Research Activity** | ![Commits](https://img.shields.io/github/commit-activity/m/Umaru74/CREST_PY_74?color=blue&style=flat-square) |
-| **Primary Language** | ![Language](https://img.shields.io/github/languages/top/Umaru74/CREST_PY_74?style=flat-square) |
-| **Current Focus** | `Stochastic Load Modeling`, `Machine Learning`, `DVPP` |
+* **Grid Simulation:** Opal-RT (RT-LAB), PSS®SINCAL, DIgSILENT PowerFactory
+* **Analysis:** Stochastic Processes, Monte Carlo Simulations, MATLAB/Simulink
+* **Version Control:** Git, GitHub Actions
 
 ---
 
 ### 🐍 Contribution Activity
-This animation represents my coding activity, generated via GitHub Actions.
 ![snake](https://raw.githubusercontent.com/Umaru74/Umaru74/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📂 Featured Project
-**[CREST Household Load Model - Python Implementation](https://github.com/Umaru74/CREST_PY_74)**
-*An upgraded implementation of the Loughborough University CREST model, achieving 10-second resolution to capture high-frequency transients for power system controller validation.*
-
----
-
 ### 📫 Connect with me
-- **LinkedIn:** [www.linkedin.com/in/masakifukae]
+- **LinkedIn:** [Your Link Here]
+- **Email:** [Your Email Here]

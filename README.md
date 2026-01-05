@@ -4,4 +4,8 @@
 🏫 
 💭 Currently learning about machine learning 
 
-[![Umaru74's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umaru74)](https://github.com/Umaru74/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/Umaru74">
+    <img src="https://github-readme-stats.vercel.app/api?username=Umaru74&show_icons=true&theme=radical" alt="Mark's GitHub Stats" width="400" />
+  </a>
+</div>

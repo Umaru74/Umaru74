@@ -4,8 +4,7 @@
 🏫 
 💭 Currently learning about machine learning 
 
-<div align="left">
-  <a href="https://github.com/Umaru74">
-    <img src="https://github-readme-stats.vercel.app/api?username=Umaru74&show_icons=true&theme=radical" alt="Mark's GitHub Stats" width="400" />
-  </a>
-</div>
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umaru74&show_icons=true&theme=nord&hide_border=true" width="400" alt="Mark's GitHub Stats" />
+</p>

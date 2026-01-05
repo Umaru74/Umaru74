@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A 5th year engineering student in Canada, originally from Japan</h3>
 
-- 🔭 I’m currently working on **CREST_py74**
+- 🔭 I’m currently working on **CREST_PY_74**
 
 - 🌱 I’m currently learning **machine learning**
 

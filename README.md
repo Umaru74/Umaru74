@@ -31,19 +31,19 @@ I have developed a Python-based stochastic engine to generate high-resolution sy
 
 Developed a Python-based control and measurement system for thin-film photovoltaic characterization using a dual-channel Source Measure Unit (SMU).
 
-* **Objective:** Accurate 4-wire electrical characterization of photovoltaic devices
-* **Hardware Integration:** USB/COM communication with SMU hardware
-* **Features:** Real-time GUI control, automated I–V sweep, hysteresis measurement, CSV export
-* **Validation:** Verified against commercial SMU software with identical I–V curves
+- **Objective:** Accurate 4-wire electrical characterization of photovoltaic devices  
+- **Hardware Integration:** USB/COM communication with SMU hardware  
+- **Features:** Real-time GUI control, automated I–V sweep, hysteresis measurement, CSV export  
+- **Validation:** Verified against commercial SMU software with identical I–V curves  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/SEE475_Architecture%20(1).png" width="800">
+  ![System Architecture](https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/SEE475_Architecture%20%281%29.png)
   <br>
   <em>System Architecture</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/Validation_figure.png" width="800">
+  ![I–V Curve Validation](https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/Validation_figure.png)
   <br>
   <em>I–V Curve Validation against commercial SMU software</em>
 </p>

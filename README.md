@@ -31,14 +31,19 @@ I have developed a Python-based stochastic engine to generate high-resolution sy
 
 Developed a Python-based control and measurement system for thin-film photovoltaic characterization using a dual-channel Source Measure Unit (SMU).
 
-* **Objective:** Create a 4-wire measurement platform for accurate electrical characterization of photovoltaic devices.
-* **Hardware Integration:** Direct USB/COM communication with Ossila X-200 SMU for automated I–V measurements.
-* **Features:** Real-time GUI control, automated I–V sweep execution, hysteresis measurement, and CSV data logging.
-* **Validation:** Verified measurement accuracy by reproducing identical I–V curves compared with Ossila’s official SMU software.
-* **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Hardware Control](https://img.shields.io/badge/-Hardware%20Control-grey?style=flat-square) ![Instrumentation](https://img.shields.io/badge/-Instrumentation-blue?style=flat-square)
+* **Objective:** Accurate 4-wire electrical characterization of photovoltaic devices
+* **Hardware Integration:** USB/COM communication with SMU hardware
+* **Features:** Real-time GUI control, automated I–V sweep, hysteresis measurement, CSV export
+* **Validation:** Verified against commercial SMU software with identical I–V curves
 
 <p align="center">
-  <img src="SMU_PV_IV_Measurement/images/Validation_figure.png" width="800" alt="I-V Validation Curve">
+  <img src="https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/SEE475_Architecture%20(1).png" width="800">
   <br>
-  <em>Figure: I–V curve validation comparing custom software with commercial SMU measurement.</em>
+  <em>System Architecture</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/Validation_figure.png" width="800">
+  <br>
+  <em>I–V Curve Validation against commercial SMU software</em>
 </p>

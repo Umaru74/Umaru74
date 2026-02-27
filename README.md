@@ -37,7 +37,7 @@ Developed a Python-based control and measurement system for thin-film photovolta
 - **Validation:** Verified against commercial SMU software with identical I–V curves  
 
 <p align="center">
-  ![I–V Measurement GUI](https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/I_V_measurement_GUI.png)
+  <img src="https://raw.githubusercontent.com/Umaru74/SMU_PV_IV_Measurement/master/images/I_V_measurement_GUI.png" width="800" alt="SMU PV I-V Measurement GUI">
   <br>
   <em>Real-time GUI for I–V Measurement</em>
 </p>
